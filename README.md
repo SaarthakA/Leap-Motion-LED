@@ -11,3 +11,5 @@ Leap Motion Processing
 Project Team:  
 Saarthak Ahlawat [@SaarthakA](https://github.com/SaarthakA)    
 Tim Kheang [@tkheang] (https://github.com/tkheang)  
+
+[DevPost link for demo video of project] (https://devpost.com/software/motion-controlled-lighting-using-leap-motion)  
